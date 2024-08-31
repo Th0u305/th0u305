@@ -6,8 +6,7 @@
 
 <!--Greetings End-->
 <h3 align="center">Novice Frontend Web Developer</h3>
-<br/>
-<p align="center">Im Just a traveler enjoying this ride called life and improving myself along the way. <br> Right now I'm learning Web Development. You may wanna throw up after reading my code but it's okay after 5-6 month it'll get 10x better</p>
+
 
 <br>
 <br>
