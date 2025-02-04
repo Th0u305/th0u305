@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="code.gif" align="center" style="width: 100%" />
+  <img src="code.gif"  />
 </div>
 
 ###
@@ -14,11 +14,13 @@
 
 <p align="left">I'm Ahnaf from Bangladesh.<br><br>- 🔭 I’m working as Frontend Dveloper<br>- 📚 I'm currently learning : Nextjs , Redux , Typescript<br>- ⚡ In my free time I play games</p>
 
+<h2></h2>
+<br/>
+<img align="right" height="180" src="code1.gif"  />
+
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="42" alt="firebase logo"  />
@@ -49,20 +51,24 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="42" alt="git logo"  />
 </div>
+<br/>
 
-###
+<h2 align="left">🔥   My Stats :</h2>
 
-  <img src="code1.gif" align="right" height="200" />
-
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
+<br/>
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Th0u305.Th0u305&"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Th0u305&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="161" alt="languages graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=Th0u305&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Th0u305&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
 </div>
 
 ###
@@ -81,12 +87,11 @@
 
 ###
 
-<br clear="both">
+<br/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Th0u305&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="161" alt="languages graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=Th0u305&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Th0u305&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
-</div>
 
-###
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Th0u305&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<br/>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
