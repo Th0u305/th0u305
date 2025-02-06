@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm Ahnaf from Bangladesh.<br><br>- 🔭 I’m working as Frontend Dveloper<br>- 📚 I'm currently learning : Nextjs , Redux , Typescript<br>- ⚡ In my free time I play games</p>
+<p align="left">I'm Ahnaf from Bangladesh. As a junior web developer, I focus on delivering high-quality code and polished user experiences.I enjoy turning complex ideas into simple, elegant solutions that work seamlessly across devices.<br><br>- 🔭 I’m working as Frontend Dveloper<br>- 📚 I'm currently learning : Nextjs , Redux , Typescript<br>- ⚡ In my free time I play games</p>
 
 <h2></h2>
 <br/>
